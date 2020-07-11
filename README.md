@@ -1,4 +1,3 @@
-# financial-transactions-api
 <h1 align="center">
   Financial Transactions API
 </h1>
